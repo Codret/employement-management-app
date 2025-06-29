@@ -58,5 +58,5 @@ A responsive, role-based task and employee management system built with **React.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/employee-management-app.git](https://github.com/Codret/employement-management-app
+git clone https://github.com/Codret/employement-management-app
 cd employement-management-app
